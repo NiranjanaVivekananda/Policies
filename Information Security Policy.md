@@ -23,7 +23,7 @@
 
 ## 1. Purpose
 
-This Information Security Policy defines NovaGrid Technologies Ltd's ("the Company") commitment to protecting the confidentiality, integrity, and availability of its information assets, and those of its customers and partners. It establishes the framework of principles, roles, and controls through which information security is governed across the organization.
+This Information Security Policy defines XXX Technologies Ltd's ("the Company") commitment to protecting the confidentiality, integrity, and availability of its information assets, and those of its customers and partners. It establishes the framework of principles, roles, and controls through which information security is governed across the organization.
 
 This policy is the top-level governance document within the Company's Information Security Management System (ISMS) and is supported by a set of subordinate policies and standards (e.g., Access Control Policy, Acceptable Use Policy, Incident Response Plan, Business Continuity Plan).
 
