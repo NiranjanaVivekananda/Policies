@@ -1,6 +1,6 @@
 # Acceptable Use Policy
 
-**Organization:** NovaGrid Technologies Ltd *(placeholder — replace with your organization name)*
+**Organization:** (placeholder — replace with your organization name)*
 **Document Owner:** Chief Information Security Officer (CISO)
 **Classification:** Internal
 **Version:** 1.0
@@ -116,4 +116,3 @@ Requests for exception to this policy must be submitted in writing to the CISO, 
 | 5.5 Monitoring | A.8.16 (Monitoring Activities) | CC7.2 |
 | 6. Enforcement | A.6.4 (Disciplinary Process) | CC1.4 |
 
-*Portfolio/template artifact — organization name, dates, and role titles are illustrative and should be adapted before operational use.*
