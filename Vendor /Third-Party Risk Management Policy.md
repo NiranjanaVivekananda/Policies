@@ -1,6 +1,6 @@
 # Vendor / Third-Party Risk Management Policy
 
-**Organization: *(placeholder — replace with your organization name)*
+**Organization: **(placeholder — replace with your organization name)*
 **Document Owner:** Chief Information Security Officer (CISO)
 **Classification:** Internal
 **Version:** 1.0
