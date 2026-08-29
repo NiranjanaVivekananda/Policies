@@ -1,4 +1,4 @@
-# Vendor / Third-Party Risk Management Policy
+# Third-Party Risk Management Policy
 
 **Organization:**(placeholder — replace with your organization name)*
 **Document Owner:** Chief Information Security Officer (CISO)
