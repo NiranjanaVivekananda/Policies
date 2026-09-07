@@ -38,12 +38,6 @@ due diligence begins (Policy §5.2) and before contract execution (Policy §5.3)
 
 ---
 
-## Decision flow (visual)
-
-![Vendor tiering decision flowchart](vendor-tiering-flowchart.svg)
-
----
-
 *Crosswalk: this matrix operationalises TPRM Policy §5.1 and the tiers referenced throughout
 Appendix A (ISO/IEC 27001:2022 A.5.19; SOC 2 CC9.2).*
 
