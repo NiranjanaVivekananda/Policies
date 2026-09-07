@@ -23,7 +23,7 @@
 
 ## 1. Purpose
 
-This policy defines how NovaGrid Technologies Ltd ("the Company") identifies, assesses, monitors, and manages information security and privacy risk arising from vendors, suppliers, and other third parties that access, process, store, or transmit Company or customer data, or that provide services supporting Company operations.
+This policy defines how ("the Company") identifies, assesses, monitors, and manages information security and privacy risk arising from vendors, suppliers, and other third parties that access, process, store, or transmit Company or customer data, or that provide services supporting Company operations.
 
 ## 2. Scope
 
