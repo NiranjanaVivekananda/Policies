@@ -23,7 +23,7 @@
 
 ## 1. Purpose
 
-This policy defines the requirements for granting, managing, reviewing, and revoking access to NovaGrid Technologies Ltd's ("the Company") information systems and data, to ensure access is limited to what is necessary for legitimate business purposes.
+This policy defines the requirements for granting, managing, reviewing, and revoking access to ("the Company") information systems and data, to ensure access is limited to what is necessary for legitimate business purposes.
 
 ## 2. Scope
 
