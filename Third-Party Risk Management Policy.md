@@ -87,11 +87,6 @@ New vendors are tiered at intake based on factors including: data sensitivity ac
 
 Unresolved critical or high findings from vendor assessments are escalated to the CISO and, where risk appetite is exceeded, to executive leadership for a formal risk acceptance decision. The vendor risk register is reviewed at least quarterly as part of the Company's broader risk governance process.
 
-## 7. Related Documents
-
-- Information Security Policy
-- Data Protection / Privacy Policy
-- Incident Response Plan
 
 ---
 
