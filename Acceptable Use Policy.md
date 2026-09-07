@@ -23,7 +23,7 @@
 
 ## 1. Purpose
 
-This Acceptable Use Policy (AUP) defines the rules governing appropriate use of NovaGrid Technologies Ltd's ("the Company") information systems, devices, networks, and data by anyone granted access to them. It exists to protect the Company, its employees, and its customers from risks including malware infection, data loss, legal liability, and reputational damage arising from misuse of Company assets.
+This Acceptable Use Policy (AUP) defines the rules governing appropriate use of  ("the Company") information systems, devices, networks, and data by anyone granted access to them. It exists to protect the Company, its employees, and its customers from risks including malware infection, data loss, legal liability, and reputational damage arising from misuse of Company assets.
 
 This policy operates as a subordinate document to the Company's Information Security Policy.
 
